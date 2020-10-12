@@ -7,7 +7,8 @@
       "Massnahmen": "Migration Base de donnée Access vers SQL Server et WinDev",
       "Verantwortlich": "G.Salem",
       "Termin": "01/08/2021",
-      "Abarbeitungsstatus": "50%"
+      "Abarbeitungsstatus": "50%",
+      "edit":""
     },
     {
       "id": 2,
@@ -16,7 +17,8 @@
       "Massnahmen": "Installation des nouveaux Hard et Système Serveurs",
       "Verantwortlich": "G.Walid",
       "Termin": "01/10/2019",
-      "Abarbeitungsstatus": "100%"
+      "Abarbeitungsstatus": "100%",
+      "edit":""
     },
     {
       "id": 3,
@@ -25,7 +27,8 @@
       "Massnahmen": "Installation des nouveaux Hard et Système Serveurs",
       "Verantwortlich": "G.Walid",
       "Termin": "01/10/2019",
-      "Abarbeitungsstatus": "100%"
+      "Abarbeitungsstatus": "100%",
+      "edit":""
     },
     {
       "id": 4,
@@ -34,7 +37,8 @@
       "Massnahmen": "Former les utilisateurs => Directive de Sécurité de l'information ",
       "Verantwortlich": "G.Walid",
       "Termin": "01/09/2019",
-      "Abarbeitungsstatus": "100%"
+      "Abarbeitungsstatus": "100%",
+      "edit":""
     },
     {
       "id": 5,
@@ -43,7 +47,8 @@
       "Massnahmen": "Devolopper intranet 'iConnect' => Education, sensibilisation et Tester",
       "Verantwortlich": "G.Walid",
       "Termin": "01/09/2019",
-      "Abarbeitungsstatus": "100%"
+      "Abarbeitungsstatus": "100%",
+      "edit":""
     }
   ],
   "comments": [
